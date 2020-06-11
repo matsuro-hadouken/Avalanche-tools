@@ -3,9 +3,14 @@
 **Requirements:**
 
 * should be run as root from cron
+* wget
 
 **Configuration:**
 
+* Pull
+```bash
+wget https://raw.githubusercontent.com/matsuro-hadouken/ava-autoupdate/master/update.sh
+```
 * Set node binary path. 
 ```bash
 NODE_BINAR_PATH='/path/to/ava/binaties/folder/'
