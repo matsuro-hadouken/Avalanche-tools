@@ -2,7 +2,7 @@
 
 **Requirements:**
 
-* daemon controlled by systemd
+* daemon controlled by systemd under name denali
 * should be run as root from cron
 * wget
 
