@@ -1,14 +1,14 @@
 # Node automatic update for AVA Labs
 
-*Requirements:*
+**Requirements:**
 
 * should be run as root from cron
 
-*Configuration:*
+**Configuration:**
 
 * Set node binary path. 
 ```bash
-NODE_BINAR_PATH='/home/ava/ava/'
+NODE_BINAR_PATH='/path/to/ava/binaties/folder/'
 ```
 * Set log path
 ```bash
