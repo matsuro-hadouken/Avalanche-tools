@@ -2,15 +2,15 @@
 
 Requirements:
 
-*should be run as root from cron
+* should be run as root from cron
 
 Configuration:
 
-*Set node binary path. 
+* Set node binary path. 
 ```bash
 NODE_BINAR_PATH='/home/ava/ava/'
 ```
-*Set log path
+* Set log path
 ```bash
 LOG_PATH=$HOME/ava-update.log
 ```
