@@ -2,6 +2,7 @@
 
 **Requirements:**
 
+* daemon controlled by systemd
 * should be run as root from cron
 * wget
 
