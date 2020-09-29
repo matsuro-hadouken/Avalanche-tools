@@ -1,4 +1,8 @@
-# Node automatic update for AVA Labs
+# I'm not a part of test-net anymore, this tool is deprecated, will leave here for educational porpoise only.
+
+# WARNING: Do not use as is in any production
+
+## Node automatic update for AVA Labs
 
 **Requirements:**
 
